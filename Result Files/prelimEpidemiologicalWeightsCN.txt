@@ -1,0 +1,38 @@
+{"Lip", 0.0538381257632188}
+{"Tongue", 0.27034109293924796}
+{"Mouth", 0.3701798076266994}
+{"Salivary Glands", 0.21855223139539706}
+{"Tonsil", 0.04909246125520886}
+{"Other Oropharynx", 0.0803527286015319}
+{"Nasopharynx", 1.3136682446244627}
+{"Hypopharynx", 0.15290387236792624}
+{"Pharynx Unspecified", 0.07240733575100011}
+{"Esophagus", 7.7394417964853135}
+{"Stomach", 12.121505713572837}
+{"Colon", 5.154546647779612}
+{"Rectum", 5.089851016854128}
+{"Anus", 0.12000778884649373}
+{"Liver", 10.418261555245378}
+{"Gall bladder etc.", 1.5025780488467222}
+{"Pancreas", 2.6306620496049176}
+{"Traches, Bronchus and Lung", 21.067155215179266}
+{"Other Thoracic Organs", 0.3367983720533113}
+{"Bone", 0.691590722032827}
+{"Melanoma of Skin", 0.18982658032039748}
+{"Connective and Soft Tissue", 0.3481232532656077}
+{"Breast", 7.834391038649359}
+{"Cervix Uteri", 2.7090194419928544}
+{"Corpus Uteri", 1.4466367308583625}
+{"Uterus Unspecified", 0.30454942460115286}
+{"Ovary", 1.431015585186163}
+{"Proslate", 1.8577299188647234}
+{"Kidney", 1.5197631066863337}
+{"Renal Pelvis", 0.18750767607216537}
+{"Ureter", 0.19809554120556633}
+{"Bladder", 2.247683328608131}
+{"Brain, Nervous System", 2.6871246716490815}
+{"Thyroid Gland", 3.7404464804041964}
+{"Non-Hodgkin Lymphoma", 1.6804685638893977}
+{"Lymphoid Leukaemia", 0.46122825737317785}
+{"Myeloid Leukaemia", 0.9841142013466365}
+{"Leukaemia Unspecified", 0.7185906769230956}

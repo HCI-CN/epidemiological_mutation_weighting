@@ -1,0 +1,352 @@
+Case_Submitter_ID,Treatment-naïve 29.9% (105/351),Gender,Age at Diagnosis,Cancer Type,Cancer Type Detailed,Case_ID,Tumor Stage,Site_Resection or Biopsy
+TCGA-EL-A3CW,Treatment-naïve,Female,87 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",011ae7b8-5003-4fcd-9f20-906a723f2c66,Stage III,Thyroid gland
+TCGA-DJ-A3UY,Treatment-naïve,Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",02a8e937-c747-4ba1-911c-0860e62b8f83,Stage I,Thyroid gland
+TCGA-EL-A4K0,Treatment-naïve,Female,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",08293bf4-727d-45c2-abbf-1aec3ba1c8a4,Stage I,Thyroid gland
+TCGA-DJ-A13T,Treatment-naïve,Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",0b170ed4-d919-466b-b765-47878b865aed,Stage I,Thyroid gland
+TCGA-EM-A3SZ,Treatment-naïve,Female,43 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",104b6629-aff4-411b-9704-547c47ada5a1,Stage I,Thyroid gland
+TCGA-DJ-A2PU,Treatment-naïve,Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",13577a2b-ee68-45e5-96a8-b1fd71fc62da,Stage II,Thyroid gland
+TCGA-CE-A3MD,Treatment-naïve,Male,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",16505d78-90d9-47d0-9b86-c6ef91d23aac,Stage I,Thyroid gland
+TCGA-DJ-A3VI,Treatment-naïve,Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",188013d3-cefe-4861-b115-c34db1cf3831,Stage III,Thyroid gland
+TCGA-ET-A3DP,Treatment-naïve,Female,43 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",18a58e3e-f18e-45cf-86bc-1851abb9b3de,Stage I,Thyroid gland
+TCGA-E8-A437,Treatment-naïve,Female,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1da4ab7d-4353-4565-a522-d2fecadd4a85,Stage I,Thyroid gland
+TCGA-DJ-A2QC,Treatment-naïve,Female,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1f094db9-f8cc-4066-adff-609682936172,Stage II,Thyroid gland
+TCGA-EL-A3ZN,Treatment-naïve,Female,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1f3915cb-718c-42ae-ab0a-ce62b8664995,Stage I,Thyroid gland
+TCGA-EM-A2OZ,Treatment-naïve,Male,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1f6be7ca-76fd-4509-99a6-dfa59b0ac51f,Stage I,Thyroid gland
+TCGA-DJ-A1QN,Treatment-naïve,Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2012869d-c169-4cea-aa09-c892fb79bbaa,Stage I,Thyroid gland
+TCGA-DE-A7U5,Treatment-naïve,Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2378935d-aebd-4f6f-b31b-53bc6bd59bf9,Stage I,Thyroid gland
+TCGA-E8-A414,Treatment-naïve,Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",23f47401-1bab-4395-970f-4e388aab2542,Stage III,Thyroid gland
+TCGA-EL-A3CR,Treatment-naïve,Female,79 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",258dccee-a3ce-4d4b-a60c-64f45ebfb7ad,Stage III,Thyroid gland
+TCGA-DJ-A3VA,Treatment-naïve,Female,40 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",28aef3ae-5375-4139-9b4e-5569eb394c88,Stage I,Thyroid gland
+TCGA-J8-A4HY,Treatment-naïve,Female,69 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2ae6a00c-bc6e-42fe-a0cb-40339d5fdc73,Stage IVA,Thyroid gland
+TCGA-DJ-A2PR,Treatment-naïve,Male,27 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2ce580e9-4d75-464c-b403-c9f4626d7aa4,Stage I,Thyroid gland
+TCGA-BJ-A45E,Treatment-naïve,Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3b088cb4-6fd4-45ac-a708-dffd873546dc,Stage I,Thyroid gland
+TCGA-DJ-A1QI,Treatment-naïve,Female,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3b1e2bd6-3d32-40f7-9b32-0df32dfcbc72,Stage II,Thyroid gland
+TCGA-EL-A4JZ,Treatment-naïve,Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3d952b80-501e-41c6-a3af-0bd6014b81e4,Stage III,Thyroid gland
+TCGA-EM-A3AK,Treatment-naïve,Female,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",47bde6dd-fa41-4d1b-8b20-2a5a5cdb2769,Stage I,Thyroid gland
+TCGA-EL-A3CT,Treatment-naïve,Female,78 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4c0b29e6-8530-43d5-8e8a-efb754e83ecd,Stage IVA,Thyroid gland
+TCGA-ET-A2MZ,Treatment-naïve,Male,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4fa53eb7-1fdb-4fe5-b5ad-f3d8069b3eb8,Stage I,Thyroid gland
+TCGA-BJ-A28R,Treatment-naïve,Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",524a39ee-8fa3-418e-98a2-a6a90e9c8064,Stage I,Thyroid gland
+TCGA-BJ-A28S,Treatment-naïve,Male,80 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",59e91fe5-c80f-4915-be0f-1a7cd3f31f3e,Stage II,Thyroid gland
+TCGA-ET-A3DS,Treatment-naïve,Female,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5cdaa0c8-27b8-4552-9dcd-20d67b1eb70f,Stage I,Thyroid gland
+TCGA-DJ-A2PZ,Treatment-naïve,Male,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5dcbdfcf-8a4d-4da5-9049-f2b970fe8ca8,Stage III,Thyroid gland
+TCGA-DJ-A3UW,Treatment-naïve,Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5e085199-152a-40f5-a8f8-3a3a0f31c2e0,Stage I,Thyroid gland
+TCGA-DJ-A2PV,Treatment-naïve,Female,54 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",63076bda-61a1-4403-a270-4130b5d003ee,Stage II,Thyroid gland
+TCGA-FK-A3SD,Treatment-naïve,Female,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",63b01b43-a68a-4046-89b0-736ba4d08504,Stage I,Thyroid gland
+TCGA-J8-A42S,Treatment-naïve,Male,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",63c20d30-3bc9-4dca-8a8d-09fdea41f288,Stage III,Thyroid gland
+TCGA-EL-A3CL,Treatment-naïve,Female,71 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",641ba101-135b-4395-9360-2058fabfed56,Stage II,Thyroid gland
+TCGA-EM-A4FV,Treatment-naïve,Female,65 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",646d1585-2d12-483c-8425-77d5451b2869,Stage I,Thyroid gland
+TCGA-DJ-A3V3,Treatment-naïve,Female,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6592a7db-cbc7-4afd-9fdb-5cc16c16eeca,Stage II,Thyroid gland
+TCGA-BJ-A0ZC,Treatment-naïve,Male,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6675c581-297d-44cd-b80f-ae7e53d48228,Stage I,Thyroid gland
+TCGA-DJ-A3UN,Treatment-naïve,Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",69f621c8-de77-48c7-8939-4c887da9e6d8,Stage I,Thyroid gland
+TCGA-EL-A4JX,Treatment-naïve,Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6a63961e-6ca4-45fa-93ee-65f7c392fcf0,Stage I,Thyroid gland
+TCGA-DJ-A3US,Treatment-naïve,Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6ee95dc8-2bac-4691-afa2-8222e07506ad,Stage I,Thyroid gland
+TCGA-BJ-A2N8,Treatment-naïve,Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",729fc937-192a-4eb7-b357-b8f0d2da1f08,Stage I,Thyroid gland
+TCGA-CE-A27D,Treatment-naïve,Female,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",75a93f0e-cd41-43c6-a303-ff37e31395e9,Stage I,Thyroid gland
+TCGA-EM-A1CV,Treatment-naïve,Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",762eddb5-1b47-4b79-b20a-1edfb07c0705,Stage I,Thyroid gland
+TCGA-DJ-A13O,Treatment-naïve,Male,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",77d5b246-33ba-4a96-9d73-06aca797653e,Stage I,Thyroid gland
+TCGA-DJ-A4UL,Treatment-naïve,Female,68 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7851512b-5f44-43de-8b27-99b5e91a8119,Stage I,Thyroid gland
+TCGA-DJ-A2Q7,Treatment-naïve,Female,53 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7a9b57c9-6f80-4aea-bf9c-76407c8084be,Stage III,Thyroid gland
+TCGA-DJ-A3V2,Treatment-naïve,Female,45 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7b46ee87-e976-41bf-bdf1-9bff58f8314e,Stage I,Thyroid gland
+TCGA-CE-A483,Treatment-naïve,Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",80da6e75-b7ad-47a6-9923-1e21a519a968,Stage I,Thyroid gland
+TCGA-DJ-A2Q0,Treatment-naïve,Female,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8bea483b-ac43-4265-b2c4-0f031e539008,Stage II,Thyroid gland
+TCGA-EL-A3CX,Treatment-naïve,Female,23 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",934a58af-0ffc-487e-9e95-fa7643b7d5cb,Stage I,Thyroid gland
+TCGA-EL-A3T1,Treatment-naïve,Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",97d0e1bb-1459-4124-b25a-48195f2ad8b5,Stage I,Thyroid gland
+TCGA-E8-A2EA,Treatment-naïve,Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",980d1c65-b675-4568-9ce8-c0278686ae8d,Stage I,Thyroid gland
+TCGA-DJ-A1QQ,Treatment-naïve,Male,44 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",99ef2fec-5a3c-4e42-8f78-7eaf9877e26d,Stage I,Thyroid gland
+TCGA-ET-A39R,Treatment-naïve,Female,24 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9a19f08b-386a-40b1-b694-78e8556a6caa,Stage I,Thyroid gland
+TCGA-CE-A485,Treatment-naïve,Male,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9b1dbd0d-be6d-4a88-881a-faf57ceba81c,Stage I,Thyroid gland
+TCGA-ET-A3DT,Treatment-naïve,Female,24 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9ff3f335-69d1-4caa-a5c5-ee66f4f92d17,Stage I,Thyroid gland
+TCGA-ET-A3DR,Treatment-naïve,Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a061976d-ba2c-4a18-a51e-952f198eb4d5,Stage I,Thyroid gland
+TCGA-CE-A13K,Treatment-naïve,Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a1227ffa-2733-4a43-ba82-834755453870,Stage I,Thyroid gland
+TCGA-DJ-A3UX,Treatment-naïve,Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a3765a2b-ff09-4dec-b990-65529345214e,Stage I,Thyroid gland
+TCGA-EL-A4K2,Treatment-naïve,Female,44 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a3f87411-0a7b-4415-ba17-8edcc2639f6c,Stage I,Thyroid gland
+TCGA-BJ-A3F0,Treatment-naïve,Female,65 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a6bdba04-f27d-4cef-bd82-872fb8390e46,Stage I,Thyroid gland
+TCGA-BJ-A28W,Treatment-naïve,Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a6d37f61-beca-46ea-a59a-62257475ac77,Stage I,Thyroid gland
+TCGA-BJ-A28T,Treatment-naïve,Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a9d8f797-8a53-4be5-b957-0f1f6d080390,Stage I,Thyroid gland
+TCGA-E8-A432,Treatment-naïve,Female,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",aa3ce865-4bc1-4cca-9ba8-35ff4c5e165e,Stage II,Thyroid gland
+TCGA-EL-A3GO,Treatment-naïve,Female,32 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",aa528913-cbbc-4e1d-b6d0-87f6a46bcbc9,Stage I,Thyroid gland
+TCGA-EL-A4K1,Treatment-naïve,Female,68 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",aa6e3437-ea1c-4bed-ab7d-8f3f89f8ceeb,Stage III,Thyroid gland
+TCGA-DJ-A3UZ,Treatment-naïve,Female,71 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ab0a98ae-98f1-425e-9418-550df6ac24cd,Stage III,Thyroid gland
+TCGA-EL-A3CY,Treatment-naïve,Male,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ab17d69e-0078-4206-939e-e4784fdc9a96,Stage I,Thyroid gland
+TCGA-DJ-A4UT,Treatment-naïve,Female,32 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",acb80b76-2394-4250-8687-60e40e16e83b,Stage I,Thyroid gland
+TCGA-EL-A3T7,Treatment-naïve,Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b1640709-8b2f-4cca-a2c0-55a1b4a1884b,Stage II,Thyroid gland
+TCGA-BJ-A28V,Treatment-naïve,Female,81 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",bed1fb3c-4459-460e-8190-29211857fa73,Stage III,Thyroid gland
+TCGA-E8-A415,Treatment-naïve,Female,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c438c562-a2b6-4ceb-b91a-7e77eb2ec962,Stage I,Thyroid gland
+TCGA-FY-A3BL,Treatment-naïve,Male,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c6f08366-f30d-45bd-b949-b59d2493995d,Stage I,Thyroid gland
+TCGA-EM-A2P3,Treatment-naïve,Female,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c9dc11ad-d3f5-4cdf-9c26-7139580b59af,Stage I,Thyroid gland
+TCGA-DJ-A13P,Treatment-naïve,Female,53 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ca95a11c-b54c-409e-b9a0-da850945033d,Stage II,Thyroid gland
+TCGA-DJ-A3UM,Treatment-naïve,Female,45 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d579370b-8aa7-4472-9e28-43c761be3eda,Stage I,Thyroid gland
+TCGA-E8-A413,Treatment-naïve,Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d5ea6520-e446-43d2-9883-441f70d80359,Stage I,Thyroid gland
+TCGA-DJ-A2PO,Treatment-naïve,Male,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d60f6620-575d-47fe-83e8-80a6ad838bed,Stage I,Thyroid gland
+TCGA-DJ-A3UK,Treatment-naïve,Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d61ca744-adc4-44d5-ad15-cc17399e8083,Stage I,Thyroid gland
+TCGA-DJ-A1QD,Treatment-naïve,Female,20 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",da201150-748e-4b74-bb35-10c995e26079,Stage I,Thyroid gland
+TCGA-DJ-A4V2,Treatment-naïve,Female,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",da575651-8a69-4d08-aa0f-4a1891b0b44f,Stage I,Thyroid gland
+TCGA-EL-A4K7,Treatment-naïve,Male,75 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dc392a57-2028-4eca-8bf3-760ec99703ee,Stage III,Thyroid gland
+TCGA-EL-A4KG,Treatment-naïve,Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dc5c1a76-30de-4b30-b397-3ad691c92a86,Stage I,Thyroid gland
+TCGA-DJ-A1QE,Treatment-naïve,Female,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dccba97d-4e81-42fb-93b3-90be68a034fb,Stage III,Thyroid gland
+TCGA-EL-A3GP,Treatment-naïve,Male,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dd981e11-4b49-447e-8ebc-d9db4b55ce9b,Stage III,Thyroid gland
+TCGA-CE-A3ME,Treatment-naïve,Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dec7a0a2-c26e-4a89-a4d5-74bd1409ff91,Stage II,Thyroid gland
+TCGA-E8-A436,Treatment-naïve,Female,54 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dff3c4f1-9009-4111-9fc2-3834f8f7dbdd,Stage IVA,Thyroid gland
+TCGA-DJ-A3VE,Treatment-naïve,Male,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e071c940-60fa-4c73-bb65-1ad670021854,Stage I,Thyroid gland
+TCGA-4C-A93U,Treatment-naïve,Female,75 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e1c8af06-9ea4-4062-9264-aa916e0025d1,Stage IVA,Thyroid gland
+TCGA-CE-A484,Treatment-naïve,Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e62a728d-390f-428a-bea1-fc8c9814fb11,Stage I,Thyroid gland
+TCGA-EM-A3AQ,Treatment-naïve,Female,85 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e8f56d0f-eee4-4def-a43a-dec91f4382a1,Stage I,Thyroid gland
+TCGA-EM-A1CS,Treatment-naïve,Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e92bdb0d-969a-4d98-ada8-5dfec68119b5,Stage I,Thyroid gland
+TCGA-E8-A418,Treatment-naïve,Female,76 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ebbd54ad-7b97-4081-ad11-7f7f3ce74eef,Stage IVA,Thyroid gland
+TCGA-DJ-A2Q4,Treatment-naïve,Male,54 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f00fd40a-1254-4300-baf9-88528c453a2e,Stage III,Thyroid gland
+TCGA-E8-A438,Treatment-naïve,Female,24 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f12fa57b-3427-45fe-994b-602f498b68da,Stage I,Thyroid gland
+TCGA-DJ-A3UV,Treatment-naïve,Female,19 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f2bbb5fa-9997-45de-88d4-8f1e94c18f0d,Stage I,Thyroid gland
+TCGA-BJ-A0YZ,Treatment-naïve,Male,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f3ee888e-5116-4313-a2f6-3b1dcc3e4bc1,Stage II,Thyroid gland
+TCGA-BJ-A2NA,Treatment-naïve,Male,77 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f9d35f8e-ada4-4cc6-8227-28565ee531d2,Stage III,Thyroid gland
+TCGA-EL-A3H8,Treatment-naïve,Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f9deeda6-8f81-441a-9c47-24c2eefd049a,Stage I,Thyroid gland
+TCGA-EL-A3H7,Treatment-naïve,Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",faa51172-60ec-48d8-9224-36bfda1d27e0,Stage I,Thyroid gland
+TCGA-DJ-A2PN,Treatment-naïve,Female,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fb39f29a-5d1e-4f96-8adb-e18cc87fad2e,Stage I,Thyroid gland
+TCGA-DJ-A1QF,Treatment-naïve,Female,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fca0c7d9-5e6f-4aa7-ba04-5df2eb8ba398,Stage II,Thyroid gland
+TCGA-BJ-A3PR,Treatment-naïve,Female,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fd036ec5-3ffb-40b1-8002-943be0e2532e,Stage I,Thyroid gland
+TCGA-DJ-A4V0,Treatment-naïve,Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fffdb1d9-58d1-425c-ac12-1e1e5f443bf7,Stage I,Thyroid gland
+TCGA-CE-A481,"Pharmaceutical Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2c9e8686-9757-4e05-8d0e-efeaa3045d66,Stage I,Thyroid gland
+TCGA-E8-A242,"Pharmaceutical Therapy, NOS",Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4d9de9a1-7df1-412e-9f16-15dd51b4c5f5,Stage III,Thyroid gland
+TCGA-E3-A3E0,"Pharmaceutical Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5be6c0d9-6ad7-482f-bd00-0432702df495,Stage I,Thyroid gland
+TCGA-E3-A3E1,"Pharmaceutical Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",884ad3b9-5350-4580-85f6-80ac05a6dcea,Stage I,Thyroid gland
+TCGA-CE-A482,"Pharmaceutical Therapy, NOS",Female,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a5406575-c840-475a-ab1b-e1a159413fbd,Stage I,Thyroid gland
+TCGA-IM-A3ED,"Pharmaceutical Therapy, NOS",Female,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d2a8035c-a8d3-4038-8a9d-854f2208bc45,Stage I,Thyroid gland
+TCGA-FY-A3R9,"Pharmaceutical Therapy, NOS",Female,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d92902ff-8023-411c-a7ca-1afcbb64937e,Stage I,Thyroid gland
+TCGA-IM-A420,"Pharmaceutical Therapy, NOS",Female,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e28e35b1-eb58-45bb-b19a-958187227500,Stage I,Thyroid gland
+TCGA-EL-A3N3,"Radiation Therapy, NOS",Female,53 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",00a02e62-e1ab-467a-91b3-5f526dd2251a,Stage II,Thyroid gland
+TCGA-J8-A3YF,"Radiation Therapy, NOS",Male,84 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",00d588e3-3db6-4cf3-9def-34d941e8cdb0,Stage III,Thyroid gland
+TCGA-J8-A3O2,"Radiation Therapy, NOS",Male,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",039bfc94-fadd-440a-aade-a1595128583e,Stage I,Thyroid gland
+TCGA-EL-A3ZM,"Radiation Therapy, NOS",Male,60 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",04dc8ee3-ec93-4b56-a546-f96746f8122f,Stage IVA,Thyroid gland
+TCGA-BJ-A190,"Radiation Therapy, NOS",Male,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",04fff86a-b6f5-4900-9e37-c1f0b881b160,Stage II,Thyroid gland
+TCGA-FE-A3PB,"Radiation Therapy, NOS",Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",05a8268a-6b33-429b-8638-8c9bb366ef28,Stage I,Thyroid gland
+TCGA-DE-A3KN,"Radiation Therapy, NOS",Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",085ffcdc-8600-42e2-852a-506465f716a2,Stage IVA,Thyroid gland
+TCGA-ET-A3DO,"Radiation Therapy, NOS",Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",0cafefef-911b-46e8-9e6c-19a0e7d555aa,Stage I,Thyroid gland
+TCGA-BJ-A18Z,"Radiation Therapy, NOS",Male,59 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",0d497faf-2c1c-4173-a5fe-770cca73323c,Stage IVA,Thyroid gland
+TCGA-BJ-A4O8,"Radiation Therapy, NOS",Male,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1009a500-2a37-4aee-b7c3-049b5ce961a4,Stage III,Thyroid gland
+TCGA-EM-A4FM,"Radiation Therapy, NOS",Female,59 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",12f90efb-c45b-4372-8197-2dfd9ca247ea,Stage IVA,Thyroid gland
+TCGA-DJ-A2Q5,"Radiation Therapy, NOS",Male,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",13c97cfb-eea2-4ae8-9209-c967d9642cef,Stage IVA,Thyroid gland
+TCGA-EM-A3SX,"Radiation Therapy, NOS",Female,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",14591ce2-ed02-440d-8004-7ca0ad94d0a7,Stage I,Thyroid gland
+TCGA-EL-A3ZH,"Radiation Therapy, NOS",Female,43 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",149b46a3-75de-44e1-ba73-bdc4ff379c7f,Stage I,Thyroid gland
+TCGA-EL-A3GY,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",154b4e7f-06f9-4813-beab-232227229f8b,Stage II,Thyroid gland
+TCGA-ET-A39J,"Radiation Therapy, NOS",Female,23 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1757c89f-8795-4c3b-bbad-1e6f617f2472,Stage I,Thyroid gland
+TCGA-EM-A3AO,"Radiation Therapy, NOS",Male,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",19378727-e0a6-4898-b2d0-f12241616870,Stage IVA,Thyroid gland
+TCGA-EM-A22P,"Radiation Therapy, NOS",Male,65 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1a4164d9-4484-452d-9382-8cbf896a870e,Stage IVA,Thyroid gland
+TCGA-EL-A4KI,"Radiation Therapy, NOS",Male,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1bacebf3-609e-4bb7-bb93-eb217b3a1b5c,Stage III,Thyroid gland
+TCGA-BJ-A2N9,"Radiation Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",1e63d4b3-1b49-4bb9-b64f-001273aae120,Stage I,Thyroid gland
+TCGA-EL-A3D6,"Radiation Therapy, NOS",Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2106f0cd-cb3c-4568-bdc5-197ee11f2337,Stage III,Thyroid gland
+TCGA-ET-A2N0,"Radiation Therapy, NOS",Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",212aa9c4-610d-4286-9ca2-ae6c87b9bc0e,Stage III,Thyroid gland
+TCGA-EL-A3CM,"Radiation Therapy, NOS",Female,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",229004af-14eb-442e-905e-61c842b3efa0,Stage III,Thyroid gland
+TCGA-EL-A3GS,"Radiation Therapy, NOS",Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",24a968aa-8169-44cb-a8ac-72d7efa1fa7b,Stage I,Thyroid gland
+TCGA-DJ-A4UP,"Radiation Therapy, NOS",Female,15 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",256976a4-41ab-445e-ae26-c594ba1fa324,Stage I,Thyroid gland
+TCGA-H2-A2K9,"Radiation Therapy, NOS",Male,25 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",25d8a79e-15fd-4c8a-a7f6-05d78973b757,Stage I,Thyroid gland
+TCGA-EL-A3ZG,"Radiation Therapy, NOS",Male,15 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",286c69b0-75ba-48d6-a26b-26077f101bbb,Stage I,Thyroid gland
+TCGA-EM-A1CT,"Radiation Therapy, NOS",Male,77 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",290be61a-84ef-4bed-8e37-b432cba6c88e,Stage IVA,Thyroid gland
+TCGA-EL-A4K4,"Radiation Therapy, NOS",Female,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",29afb71c-c2ca-499e-b1c7-12758c9b03d6,Stage I,Thyroid gland
+TCGA-BJ-A3PT,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",29c4319c-3ead-42b1-810d-418da8d515c4,Stage III,Thyroid gland
+TCGA-EM-A3O3,"Radiation Therapy, NOS",Female,84 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2a398af1-aea5-4aae-ab00-a2dc152f965a,Stage III,Thyroid gland
+TCGA-EM-A3FR,"Radiation Therapy, NOS",Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2b84cfbc-7cf6-4cb1-a1e3-ba85dafb89f4,Stage III,Thyroid gland
+TCGA-ET-A40T,"Radiation Therapy, NOS",Female,26 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2cae34a6-73a0-4a67-8dcc-051468c41389,Stage I,Thyroid gland
+TCGA-ET-A3BW,"Radiation Therapy, NOS",Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2cb43652-109b-4b59-9fcd-512903591f45,Stage I,Thyroid gland
+TCGA-E8-A44M,"Radiation Therapy, NOS",Female,23 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2d633ced-ae85-462c-90e7-c1b109e084cf,Stage I,Thyroid gland
+TCGA-DJ-A3V9,"Radiation Therapy, NOS",Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2dcdf9a1-9437-4515-88c1-1c17d6b6418c,Stage IVA,Thyroid gland
+TCGA-ET-A25K,"Radiation Therapy, NOS",Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2f9ed09d-2626-4c23-ba47-1850d36f812a,Stage I,Thyroid gland
+TCGA-EL-A3GZ,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",2fa2dd09-593a-4cde-97c7-61cdb8ba2bfe,Stage I,Thyroid gland
+TCGA-FE-A236,"Radiation Therapy, NOS",Male,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",300720c8-68e5-4a3b-a873-3ad36ad0f953,Stage I,Thyroid gland
+TCGA-EL-A3ZQ,"Radiation Therapy, NOS",Female,79 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",315cbbe8-62c8-488b-92c5-e2046321efb7,Stage II,Thyroid gland
+TCGA-BJ-A0Z3,"Radiation Therapy, NOS",Female,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",331cae6e-2868-4c58-9302-709a9ff7d025,Stage I,Thyroid gland
+TCGA-EL-A3N2,"Radiation Therapy, NOS",Female,25 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",34d4cc10-b868-4e85-96a5-8680fc729e34,Stage I,Thyroid gland
+TCGA-EL-A3H3,"Radiation Therapy, NOS",Female,19 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",39d45532-d2f4-49f1-b1c6-880ff0ebe0ed,Stage I,Thyroid gland
+TCGA-EM-A3O7,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3a211d5a-085f-4902-86b6-50e4eb36b897,Stage III,Thyroid gland
+TCGA-IM-A3EB,"Radiation Therapy, NOS",Female,32 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3a7c35e0-9ed1-4098-8585-52f5991b2534,Stage I,Thyroid gland
+TCGA-EL-A3ZO,"Radiation Therapy, NOS",Female,79 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3bfa52af-cb40-45d8-9bdc-591985aae7fb,Stage III,Thyroid gland
+TCGA-EL-A3ZK,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3d8b7654-b403-4360-80dc-8273ca90c2dc,Stage I,Thyroid gland
+TCGA-EL-A3H5,"Radiation Therapy, NOS",Female,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",40a9c1d3-6629-4e22-a783-12e0d48349d1,Stage IVA,Thyroid gland
+TCGA-J8-A3NZ,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",430ad51d-f68c-40b2-bfa2-9da68370b7fa,Stage III,Thyroid gland
+TCGA-ET-A39P,"Radiation Therapy, NOS",Female,73 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",44465a32-8ee9-4575-94b8-0200ba7c5bd4,Stage III,Thyroid gland
+TCGA-DJ-A3UU,"Radiation Therapy, NOS",Female,49 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",45eefba8-9f7c-49e9-a3f5-d13cfa264ff6,Stage III,Thyroid gland
+TCGA-ET-A3BU,"Radiation Therapy, NOS",Male,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",46239f1e-bd85-4d7a-a313-762666599a6d,Stage I,Thyroid gland
+TCGA-EL-A3CN,"Radiation Therapy, NOS",Female,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",471636d5-9eca-49df-872a-c2a2cac61838,Stage II,Thyroid gland
+TCGA-E8-A433,"Radiation Therapy, NOS",Female,25 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4be84ffe-4b12-4b71-90bb-9ea0ca6947f8,Stage I,Thyroid gland
+TCGA-BJ-A0ZA,"Radiation Therapy, NOS",Female,67 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4c513413-263e-4c7b-b997-7b688c47b698,Stage II,Thyroid gland
+TCGA-BJ-A3PU,"Radiation Therapy, NOS",Male,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4cccc34b-daf6-41ca-9bf8-f1614525eac9,Stage III,Thyroid gland
+TCGA-J8-A3YD,"Radiation Therapy, NOS",Female,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4e227a7a-b885-4e9b-a4c2-aad9e6c154e5,Stage III,Thyroid gland
+TCGA-EM-A1CU,"Radiation Therapy, NOS",Male,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4e80f403-0e10-4725-854d-f023c12ee1e2,Stage I,Thyroid gland
+TCGA-DE-A4MB,"Radiation Therapy, NOS",Female,79 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4ec2bb20-2190-4c37-8aaa-4086fef1fbb6,Stage IVA,Thyroid gland
+TCGA-EL-A4JW,"Radiation Therapy, NOS",Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4f340c8c-5912-4257-b57d-c096da254c26,Stage I,Thyroid gland
+TCGA-EL-A4K6,"Radiation Therapy, NOS",Male,75 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4fc8e011-4433-4537-b03f-457a3a70240f,Stage IV,Thyroid gland
+TCGA-FY-A3RA,"Radiation Therapy, NOS",Female,22 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",58ff4366-20a3-40a2-a87a-551e17cdb5d3,Stage I,Thyroid gland
+TCGA-ET-A2MX,"Radiation Therapy, NOS",Male,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",59681e8f-cf57-47b4-82e1-6be8ead9583e,Stage I,Thyroid gland
+TCGA-ET-A3BQ,"Radiation Therapy, NOS",Female,27 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5a6b9340-acde-4d97-8836-20ae29732851,Stage I,Thyroid gland
+TCGA-EL-A3D4,"Radiation Therapy, NOS",Male,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5d0cc336-26f2-4cb0-aa9e-58491dda102f,Stage IVA,Thyroid gland
+TCGA-ET-A25J,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",618a1c29-5c26-46db-83d5-4799f9043cd3,Stage I,Thyroid gland
+TCGA-EL-A3D0,"Radiation Therapy, NOS",Male,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",63986dd0-63ba-4ee5-aa25-8ff2cbb762d3,Stage III,Thyroid gland
+TCGA-EL-A4KH,"Radiation Therapy, NOS",Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",64131b0b-9f36-44be-8bec-92c71ec36343,Stage I,Thyroid gland
+TCGA-EL-A3T3,"Radiation Therapy, NOS",Male,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6435ea21-7214-40c5-9ccb-a1f22685a728,Stage II,Thyroid gland
+TCGA-EM-A3AN,"Radiation Therapy, NOS",Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6491d025-c061-4180-bfd4-d7c6e6e55f66,Stage I,Thyroid gland
+TCGA-EL-A3ZT,"Radiation Therapy, NOS",Male,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",64de42bd-d134-4f44-82fa-d6614709bf01,Stage I,Thyroid gland
+TCGA-EM-A22O,"Radiation Therapy, NOS",Male,76 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6abc861a-376d-446b-acee-fb0f03a82c09,Stage IVA,Thyroid gland
+TCGA-BJ-A28Z,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6ba76174-620e-4851-857a-d0adbfd6f3e6,Stage III,Thyroid gland
+TCGA-ET-A39K,"Radiation Therapy, NOS",Female,49 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6e1c9ac8-eead-4db9-8f30-ef3591daf78b,Stage III,Thyroid gland
+TCGA-EL-A4JV,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6f77fc81-1bf4-47c8-b1d8-78bb17cb13f8,Stage I,Thyroid gland
+TCGA-FE-A231,"Radiation Therapy, NOS",Male,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7044dee0-fd6c-4e75-b731-dc60a386a1ab,Stage IVA,Thyroid gland
+TCGA-EM-A3AR,"Radiation Therapy, NOS",Male,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",707312fe-1d92-413e-a891-1ea3f496c343,Stage I,Thyroid gland
+TCGA-BJ-A0Z0,"Radiation Therapy, NOS",Male,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",72d8dcc3-0709-4fd1-98d4-fb75e9340758,Stage II,Thyroid gland
+TCGA-EL-A3CU,"Radiation Therapy, NOS",Female,71 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",745642a0-ddba-495b-bafc-da085552758a,Stage III,Thyroid gland
+TCGA-EM-A2CS,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7555e736-a9e2-4b96-a633-fb0f7224d62c,Stage IVA,Thyroid gland
+TCGA-EL-A3H2,"Radiation Therapy, NOS",Male,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",77200abe-4a09-4a4a-bb45-60d9b96d4998,Stage II,Thyroid gland
+TCGA-EL-A3MY,"Radiation Therapy, NOS",Male,81 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7746be87-7ad0-48a7-84fb-08a81b220bdb,Stage IVC,Thyroid gland
+TCGA-BJ-A45H,"Radiation Therapy, NOS",Male,45 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",778a8f53-53f6-4a03-8ce1-b0928539a444,Stage III,Thyroid gland
+TCGA-FK-A4UB,"Radiation Therapy, NOS",Male,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7cec93da-42c9-495d-8110-9fb43763041b,Stage III,Thyroid gland
+TCGA-FE-A237,"Radiation Therapy, NOS",Female,20 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7d11b016-c564-4fb5-9b85-1b1a0188006f,Stage I,Thyroid gland
+TCGA-GE-A2C6,"Radiation Therapy, NOS",Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7deedeba-f05b-453c-9df1-eeb20b0ec72e,Stage I,Thyroid gland
+TCGA-DE-A69K,"Radiation Therapy, NOS",Female,59 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",7f9fad75-ac3e-4580-b949-80eed07a3230,Stage III,Thyroid gland
+TCGA-EM-A2P0,"Radiation Therapy, NOS",Male,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",80420c04-709b-4ab2-a88c-1e22b3a09b9c,Stage I,Thyroid gland
+TCGA-H2-A421,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",80aeb61d-21cf-4804-90ea-5d22eb06e299,Stage I,Thyroid gland
+TCGA-EL-A3GX,"Radiation Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",856893d6-0ed7-422b-ac19-1a5871088805,Stage I,Thyroid gland
+TCGA-DE-A4MC,"Radiation Therapy, NOS",Female,44 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",85def63a-39ab-4c83-ab8c-02c6f702f05d,Stage I,Thyroid gland
+TCGA-EL-A3T0,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",861f94ce-45ff-4588-addb-e1ea48878c2e,Stage III,Thyroid gland
+TCGA-DE-A4M9,"Radiation Therapy, NOS",Male,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",86657a3c-10cf-48b7-9fda-f2df5e2afad5,Stage I,Thyroid gland
+TCGA-E8-A416,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",86b82345-6f4d-44fd-a9db-6f107de62f53,Stage I,Thyroid gland
+TCGA-DJ-A4V5,"Radiation Therapy, NOS",Male,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",86d5865e-6a1c-467c-97c9-47460b77f5a4,Stage IVA,Thyroid gland
+TCGA-ET-A39N,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",87858089-1bad-4e5d-80ed-04f846da9ca4,Stage I,Thyroid gland
+TCGA-BJ-A0ZJ,"Radiation Therapy, NOS",Male,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8877b479-b62a-4794-b71e-418de96dff23,Stage I,Thyroid gland
+TCGA-FK-A3SB,"Radiation Therapy, NOS",Female,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8950691c-600f-4a90-adf6-42a8f129aa3e,Stage I,Thyroid gland
+TCGA-DE-A4MA,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",89c72f0e-e724-4826-bb9c-d7524d1b1258,Stage III,Thyroid gland
+TCGA-EL-A4K9,"Radiation Therapy, NOS",Male,68 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",89f4a6a5-bf9b-4a0e-bacf-8cd715c2ca93,Stage II,Thyroid gland
+TCGA-ET-A3BX,"Radiation Therapy, NOS",Male,24 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8a02f305-6fd8-4908-bc19-06babf028b5b,Stage I,Thyroid gland
+TCGA-EL-A3T2,"Radiation Therapy, NOS",Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8a476795-0e05-4da6-bbe1-ff7304da1b39,Stage III,Thyroid gland
+TCGA-EL-A3CS,"Radiation Therapy, NOS",Female,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8b1987f7-75fd-4e24-be77-891bbd2d40a1,Stage IVA,Thyroid gland
+TCGA-DJ-A13U,"Radiation Therapy, NOS",Male,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8c5aef43-341e-4a37-84eb-fd730eb957c7,Stage III,Thyroid gland
+TCGA-EL-A3H1,"Radiation Therapy, NOS",Female,67 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8d54a2ed-03f1-4a23-bdd2-f3395f5d3716,Stage I,Thyroid gland
+TCGA-EM-A4FR,"Radiation Therapy, NOS",Male,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8dd09d74-0be8-4c58-bf44-de4a2466d044,Stage I,Thyroid gland
+TCGA-H2-A422,"Radiation Therapy, NOS",Female,40 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8ed1b900-a8a8-4164-b96b-f060f15d7075,Stage I,Thyroid gland
+TCGA-EM-A3FM,"Radiation Therapy, NOS",Male,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",90473122-7221-491d-8fc2-0c72421d7861,Stage IVA,Thyroid gland
+TCGA-EL-A3T6,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",90507baa-b716-4bcf-a18e-9d8ae97d809a,Stage I,Thyroid gland
+TCGA-FY-A3R6,"Radiation Therapy, NOS",Female,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",905469d2-4c97-4293-a20c-1b1f0462a25d,Stage IVA,Thyroid gland
+TCGA-EM-A22M,"Radiation Therapy, NOS",Male,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",92e9f5e1-b597-451b-b6d5-fad9a77ba87a,Stage I,Thyroid gland
+TCGA-E8-A417,"Radiation Therapy, NOS",Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",93691bae-f1bd-437e-ae72-b50736d1e29a,Stage I,Thyroid gland
+TCGA-ET-A3BP,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9382942c-40dc-404a-ad8a-697612cdb575,Stage I,Thyroid gland
+TCGA-EL-A3ZR,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",96b95a2c-fb4f-4cba-89e7-a7f0e90db146,Stage II,Thyroid gland
+TCGA-EL-A3T8,"Radiation Therapy, NOS",Male,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",989e9202-c08e-4bbf-85b3-1e278a475cb7,Stage I,Thyroid gland
+TCGA-EM-A2OX,"Radiation Therapy, NOS",Male,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",98a08015-9040-4e0b-bcfa-2c6db7d0f888,Stage IVA,Thyroid gland
+TCGA-DJ-A13V,"Radiation Therapy, NOS",Female,22 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",99ac4f2e-2e63-4f1e-af0f-8f23a2caf999,Stage I,Thyroid gland
+TCGA-J8-A3YG,"Radiation Therapy, NOS",Female,54 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9aa61ab5-f675-43dd-8a99-077164b41f30,Stage III,Thyroid gland
+TCGA-EM-A2P1,"Radiation Therapy, NOS",Male,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9b6acc25-447d-4144-b4c0-ef52b8850d96,Stage I,Thyroid gland
+TCGA-L6-A4EP,"Radiation Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9c6c44b3-a2ca-456e-a8d1-d375309c1751,Stage I,Thyroid gland
+TCGA-DE-A69J,"Radiation Therapy, NOS",Female,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9efd27c7-9893-49fd-886e-e85057dd5d2e,Stage I,Thyroid gland
+TCGA-DJ-A2PS,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",9f31deb9-b9f4-439b-aea4-f87c71406c79,Stage I,Thyroid gland
+TCGA-J8-A3YH,"Radiation Therapy, NOS",Male,40 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a09b20b5-c187-4632-b996-0d5314a9885c,Stage I,Thyroid gland
+TCGA-EL-A3TB,"Radiation Therapy, NOS",Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a09d0be0-fd41-4b30-b488-9a9f2abef8e7,Stage III,Thyroid gland
+TCGA-BJ-A45C,"Radiation Therapy, NOS",Male,78 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a1196d5f-8c7d-4d9d-9e46-c5c22a9c2fef,Stage III,Thyroid gland
+TCGA-EL-A3ZS,"Radiation Therapy, NOS",Female,22 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a253b21e-ba9b-4928-95d1-89b59c868794,Stage I,Thyroid gland
+TCGA-E8-A419,"Radiation Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a2e2fac3-cca5-4e33-aa6c-1d9d3ac3aeec,Stage I,Thyroid gland
+TCGA-DE-A4M8,"Radiation Therapy, NOS",Female,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a4a217c1-66e8-4cc5-805a-1172ce5da721,Stage III,Thyroid gland
+TCGA-E8-A44K,"Radiation Therapy, NOS",Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a552e8ab-9dec-44ea-9f02-7ca704ee8467,Stage I,Thyroid gland
+TCGA-FE-A3PC,"Radiation Therapy, NOS",Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",a86ac3b5-b5e9-4420-8de0-a358fcad85b6,Stage I,Thyroid gland
+TCGA-BJ-A0ZE,"Radiation Therapy, NOS",Female,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ab8c9101-adeb-4c43-a8bb-b089ebd711f6,Stage III,Thyroid gland
+TCGA-BJ-A18Y,"Radiation Therapy, NOS",Male,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",acb3b9db-16e9-40f5-87a9-9df9d4ceee54,Stage I,Thyroid gland
+TCGA-DJ-A2Q6,"Radiation Therapy, NOS",Female,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",af546062-0960-41f0-9ed1-6acecbad99f3,Stage I,Thyroid gland
+TCGA-FK-A3SE,"Radiation Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",afb00cd4-e5da-4251-86fb-532c3f65324c,Stage I,Thyroid gland
+TCGA-EL-A3GR,"Radiation Therapy, NOS",Female,32 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b107b012-335a-4282-a7aa-273b740831f1,Stage I,Thyroid gland
+TCGA-FE-A230,"Radiation Therapy, NOS",Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b1d71782-2443-43f3-bd0e-8b7220515cb6,Stage I,Thyroid gland
+TCGA-EM-A3FO,"Radiation Therapy, NOS",Male,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b2e6933f-50e1-48e3-ae1f-173e1bc889ff,Stage I,Thyroid gland
+TCGA-EL-A4KD,"Radiation Therapy, NOS",Male,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b4a60a32-2c1b-44fb-92f4-b30f985dc424,Stage I,Thyroid gland
+TCGA-EM-A4FF,"Radiation Therapy, NOS",Female,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b7bafe7f-295c-4598-9cc8-49d785bd2218,Stage I,Thyroid gland
+TCGA-EL-A3D1,"Radiation Therapy, NOS",Male,39 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",bcd63672-8a22-4a30-9045-a43def5b4d6f,Stage I,Thyroid gland
+TCGA-BJ-A3EZ,"Radiation Therapy, NOS",Male,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",befa0ef5-d621-4866-904d-13341ea54aa1,Stage IVA,Thyroid gland
+TCGA-H2-A3RI,"Radiation Therapy, NOS",Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",bf193c4f-fbac-41bc-b1af-19b6ce856f0f,Stage I,Thyroid gland
+TCGA-ET-A3DU,"Radiation Therapy, NOS",Female,22 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c047e741-2b29-45df-a577-351bddc50eb8,Stage I,Thyroid gland
+TCGA-ET-A3BV,"Radiation Therapy, NOS",Female,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c14a0460-30b0-453b-ab81-da03ad4ad02e,Stage III,Thyroid gland
+TCGA-ET-A25O,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c30eb9bd-d705-4464-9014-e0aa7cda53c7,Stage I,Thyroid gland
+TCGA-QD-A8IV,"Radiation Therapy, NOS",Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c35e4390-2809-4d88-86f3-208de05b338a,Stage IVA,Thyroid gland
+TCGA-FE-A235,"Radiation Therapy, NOS",Female,27 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c781b49e-d08f-49e6-b774-7cfe4100e92d,Stage I,Thyroid gland
+TCGA-ET-A3BS,"Radiation Therapy, NOS",Male,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c83fb5e6-8af3-47e4-ae48-cee92dff9db7,Stage I,Thyroid gland
+TCGA-ET-A40S,"Radiation Therapy, NOS",Male,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c8d62754-1601-40c0-98ef-e5bb94306b92,Stage II,Thyroid gland
+TCGA-J8-A3YE,"Radiation Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c93c47f4-88f3-405a-85f4-ba9450b74522,Stage I,Thyroid gland
+TCGA-EL-A3CZ,"Radiation Therapy, NOS",Female,38 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c951b786-7de3-4195-85b9-c4c19e95f546,Stage I,Thyroid gland
+TCGA-EM-A3FJ,"Radiation Therapy, NOS",Female,25 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c9c00e4f-4092-400e-aebb-3d9961be0f0e,Stage I,Thyroid gland
+TCGA-EL-A3GW,"Radiation Therapy, NOS",Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ca65a38e-8b49-4b50-908a-478b95b95c02,Stage I,Thyroid gland
+TCGA-DE-A4MD,"Radiation Therapy, NOS",Male,72 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",cd0c33c3-4427-471d-979e-79dc43f3a018,Stage IVA,Thyroid gland
+TCGA-FY-A3I4,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",cd1656d8-55a5-4248-b81d-fed9d5992cbe,Stage I,Thyroid gland
+TCGA-ET-A39L,"Radiation Therapy, NOS",Female,21 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",cd73c807-a74e-46a8-9855-92de33da9b0d,Stage I,Thyroid gland
+TCGA-EL-A3TA,"Radiation Therapy, NOS",Male,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d4355111-3abb-40f0-bdb7-b9eaa39dc771,Stage I,Thyroid gland
+TCGA-DJ-A2PW,"Radiation Therapy, NOS",Male,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d487536f-0521-4d42-9150-6a806ae00241,Stage III,Thyroid gland
+TCGA-L6-A4EQ,"Radiation Therapy, NOS",Male,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d684399e-46c4-4bad-92e9-3de17c9f9a5f,Stage III,Thyroid gland
+TCGA-DJ-A3UO,"Radiation Therapy, NOS",Male,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d78012b6-24f9-48f5-9409-9845d0be2b3c,Stage IVA,Thyroid gland
+TCGA-BJ-A0ZB,"Radiation Therapy, NOS",Male,67 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dc4d8468-6f34-40cb-a826-8d582cd86fde,Stage IVA,Thyroid gland
+TCGA-DJ-A3VD,"Radiation Therapy, NOS",Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dc659941-8d12-4095-8d8a-1769878c363c,Stage I,Thyroid gland
+TCGA-BJ-A45F,"Radiation Therapy, NOS",Female,59 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dd305533-e48c-4fed-9283-5082703c23ff,Stage I,Thyroid gland
+TCGA-EL-A3GU,"Radiation Therapy, NOS",Female,73 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dde7ade8-de24-467f-855d-a422bbede407,Stage III,Thyroid gland
+TCGA-EM-A22K,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",de9315b3-b3df-45f0-adc2-69aa6b8ff717,Stage IVA,Thyroid gland
+TCGA-FE-A238,"Radiation Therapy, NOS",Female,36 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dffc4f7a-c67a-4ac5-a338-717dffde686d,Stage I,Thyroid gland
+TCGA-EL-A3H4,"Radiation Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e069dcad-2fd1-464e-a5e9-fe36f05a0446,Stage IVA,Thyroid gland
+TCGA-EM-A4FO,"Radiation Therapy, NOS",Male,73 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e0ab95ef-5c96-4d00-8950-04e26e3b4672,Stage I,Thyroid gland
+TCGA-EL-A3ZL,"Radiation Therapy, NOS",Female,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e2475d48-628b-4095-b101-865d79a4b0ed,Stage I,Thyroid gland
+TCGA-DJ-A2Q1,"Radiation Therapy, NOS",Female,45 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e35b2928-8784-45d0-a71a-a2df161542fa,Stage I,Thyroid gland
+TCGA-FK-A3SH,"Radiation Therapy, NOS",Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e48a8fa7-4e2b-44a0-95f5-e2925c60bad3,Stage III,Thyroid gland
+TCGA-FE-A234,"Radiation Therapy, NOS",Female,27 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e4c85bdd-7b7c-414f-9503-647d9b825915,Stage I,Thyroid gland
+TCGA-H2-A26U,"Radiation Therapy, NOS",Female,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e61fb24b-613a-4b6d-bb2b-00ccedbd3dbc,Stage III,Thyroid gland
+TCGA-FE-A233,"Radiation Therapy, NOS",Female,19 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e70feafd-1390-4f4c-a635-da65c1a7daeb,Stage I,Thyroid gland
+TCGA-ET-A2N1,"Radiation Therapy, NOS",Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e74b8474-f74a-498d-8848-6aa97d38d2d8,Stage III,Thyroid gland
+TCGA-BJ-A2P4,"Radiation Therapy, NOS",Female,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e8d74dbb-410c-4f8f-8e1f-2b2dd7634160,Stage I,Thyroid gland
+TCGA-EL-A3GV,"Radiation Therapy, NOS",Female,65 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e95c7f24-89ab-4d56-aae6-d2268888c549,Stage III,Thyroid gland
+TCGA-ET-A39M,"Radiation Therapy, NOS",Male,34 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e9949320-ad37-4542-98c1-b72df60b1668,Stage I,Thyroid gland
+TCGA-EL-A3D5,"Radiation Therapy, NOS",Female,44 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e9ccf355-e68a-489c-a914-31b766bd0aef,Stage I,Thyroid gland
+TCGA-EL-A3ZP,"Radiation Therapy, NOS",Male,19 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ea859a83-00c3-40b2-97c1-fb24ad027ea6,Stage I,Thyroid gland
+TCGA-ET-A2MY,"Radiation Therapy, NOS",Female,72 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",eb15422b-cafd-4af2-973e-8c997a911170,Stage I,Thyroid gland
+TCGA-ET-A25N,"Radiation Therapy, NOS",Female,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ebccfb5f-c0a8-4263-aaff-b5dd83585191,Stage I,Thyroid gland
+TCGA-DJ-A2PQ,"Radiation Therapy, NOS",Male,26 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",edb90376-0ef9-47dd-be6f-a6e8a0380a9c,Stage I,Thyroid gland
+TCGA-EM-A22I,"Radiation Therapy, NOS",Female,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ef306507-f426-499e-8a1f-3401a522fb6b,Stage III,Thyroid gland
+TCGA-EL-A3MW,"Radiation Therapy, NOS",Female,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ef3dd880-7be4-46a8-93c2-7cba1a9cd24d,Stage II,Thyroid gland
+TCGA-E8-A434,"Radiation Therapy, NOS",Female,56 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",efc46db7-f9df-494e-acca-357cb64c019a,Stage I,Thyroid gland
+TCGA-E8-A3X7,"Radiation Therapy, NOS",Female,57 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f3665b89-957b-4d7b-b67f-39615c47d28b,Stage IVA,Thyroid gland
+TCGA-EL-A3MZ,"Radiation Therapy, NOS",Male,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f82f9ae8-e106-4c61-941c-3614d51b0f41,Stage III,Thyroid gland
+TCGA-EM-A4FN,"Radiation Therapy, NOS",Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f854ce67-c586-4424-a674-2dd67ad0ed7f,Stage IVA,Thyroid gland
+TCGA-J8-A3O1,"Radiation Therapy, NOS",Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fb14bd0d-b356-42a4-a0e9-2fcdada8f76b,Stage I,Thyroid gland
+TCGA-EL-A3CV,"Radiation Therapy, NOS",Male,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fb83f7d7-2182-4fb7-8e3e-8ad7f1feac72,Stage I,Thyroid gland
+TCGA-J8-A4HW,"Radiation Therapy, NOS",Female,59 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fd3315da-c870-4ad0-9d2a-50b1647d3e46,Stage III,Thyroid gland
+TCGA-EL-A3CO,"Radiation Therapy, NOS",Male,88 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fd661b1b-fe0b-4ab0-ae82-76324e2f6a81,Stage III,Thyroid gland
+TCGA-FE-A23A,"Radiation Therapy, NOS",Female,28 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fd8c4ff3-e759-495f-96e7-1f406bb70190,Stage I,Thyroid gland
+TCGA-EM-A3SU,"Radiation Therapy, NOS",Female,43 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fe28f76e-7ead-4d29-8c53-a576ae6021f7,Stage I,Thyroid gland
+TCGA-EM-A3FK,"Radiation/Pharmaceutical Therapy, NOS",Female,30 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",0f9b78c8-ee9d-4e60-939c-bdbe040c212d,Stage I,Thyroid gland
+TCGA-KS-A41J,"Radiation/Pharmaceutical Therapy, NOS",Female,29 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",23ad7900-4e99-4abf-82ff-71edeaa8a51c,Stage I,Thyroid gland
+TCGA-MK-A4N9,"Radiation/Pharmaceutical Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",25184e51-1464-438a-80ff-cfc9a443cd36,Stage I,Thyroid gland
+TCGA-DE-A0XZ,"Radiation/Pharmaceutical Therapy, NOS",Female,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3e9fda23-676d-4e78-8948-0c9df3d10064,Stage III,Thyroid gland
+TCGA-FY-A40L,"Radiation/Pharmaceutical Therapy, NOS",Female,55 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3fc062bc-1b0b-4c8f-b79c-770bcaa1ec6e,Stage IVA,Thyroid gland
+TCGA-FY-A3ON,"Radiation/Pharmaceutical Therapy, NOS",Male,20 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4d1aec67-c345-4721-8ee8-356b0dff009b,Stage I,Thyroid gland
+TCGA-KS-A4IC,"Radiation/Pharmaceutical Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",4d30606f-3ab6-4ef0-9991-8897cdb9960b,Stage III,Thyroid gland
+TCGA-KS-A4I9,"Radiation/Pharmaceutical Therapy, NOS",Female,46 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",52bc133b-8a10-4c9b-adc3-22910a191e6b,Stage I,Thyroid gland
+TCGA-FY-A4B4,"Radiation/Pharmaceutical Therapy, NOS",Female,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5c118e15-1e48-42a6-8d29-179e6e71a26c,Stage III,Thyroid gland
+TCGA-FE-A232,"Radiation/Pharmaceutical Therapy, NOS",Female,45 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",5eb0d577-223b-4409-89d1-5c5d196affc3,Stage I,Thyroid gland
+TCGA-E3-A3E3,"Radiation/Pharmaceutical Therapy, NOS",Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",63e8c48e-f01b-4a7f-87e2-30607a2c8f6c,Stage II,Thyroid gland
+TCGA-DE-A0Y2,"Radiation/Pharmaceutical Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6ad260ad-769a-4f3c-bd07-927adf6b2338,Stage I,Thyroid gland
+TCGA-KS-A4I1,"Radiation/Pharmaceutical Therapy, NOS",Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",6ff5c8bd-9929-43ee-b53c-3c7c0b23f97b,Stage I,Thyroid gland
+TCGA-FY-A40M,"Radiation/Pharmaceutical Therapy, NOS",Female,51 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",744df1f5-a7d5-4675-92ce-6e4713f0d541,Stage I,Thyroid gland
+TCGA-FY-A40K,"Radiation/Pharmaceutical Therapy, NOS",Female,47 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8a8e05aa-f13a-4142-a335-7aafbee7b664,Stage I,Thyroid gland
+TCGA-KS-A41F,"Radiation/Pharmaceutical Therapy, NOS",Female,37 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8e274b77-c05e-4a8c-a106-c552df1f2d11,Stage I,Thyroid gland
+TCGA-E3-A3E5,"Radiation/Pharmaceutical Therapy, NOS",Male,58 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",90750006-fb25-4ccd-90df-9f300cd26a5b,Stage IVA,Thyroid gland
+TCGA-DO-A1K0,"Radiation/Pharmaceutical Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b7a01148-5bab-4268-986a-a9cf7bca967f,Stage I,Thyroid gland
+TCGA-DE-A0Y3,"Radiation/Pharmaceutical Therapy, NOS",Female,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c31b3adf-3fc6-4a72-83b0-bbc0f295b5e7,Stage IVC,Thyroid gland
+TCGA-FY-A3R8,"Radiation/Pharmaceutical Therapy, NOS",Female,63 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",c77976b6-35ea-4623-a92a-6d9440a978e6,Stage III,Thyroid gland
+TCGA-BJ-A2N7,"Radiation/Pharmaceutical Therapy, NOS",Female,31 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",cbab7a72-11f7-4dfe-80f8-1b1ef1cf0055,Stage I,Thyroid gland
+TCGA-FY-A3YR,"Radiation/Pharmaceutical Therapy, NOS",Female,64 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d2cc4d31-38fa-4232-895e-767260f607e9,Stage III,Thyroid gland
+TCGA-KS-A4IB,"Radiation/Pharmaceutical Therapy, NOS",Female,42 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",d3d9ccdd-4789-43b0-8e73-b2c42cb7d83d,Stage I,Thyroid gland
+TCGA-MK-A4N6,"Radiation/Pharmaceutical Therapy, NOS",Male,35 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dd478399-d2ec-4ae4-a82a-b0258d24d088,Stage I,Thyroid gland
+TCGA-KS-A4I7,"Radiation/Pharmaceutical Therapy, NOS",Female,61 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e0174496-d774-4417-81d1-cb16771760ad,Stage I,Thyroid gland
+TCGA-KS-A4I5,"Radiation/Pharmaceutical Therapy, NOS",Female,49 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",e94dfd42-4fe4-48e9-aa62-422ae071413f,Stage IVA,Thyroid gland
+TCGA-EL-A3MX,"Radiation/Pharmaceutical Therapy, NOS",Female,66 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",ea2c873a-ea52-4920-8d20-554d5fa8ddc1,Stage IVC,Thyroid gland
+TCGA-MK-A4N7,"Radiation/Pharmaceutical Therapy, NOS",Female,21 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f0bc4f65-211b-4ae1-8e68-aaef3f3c6db8,Stage I,Thyroid gland
+TCGA-E8-A2JQ,"Radiation/Pharmaceutical Therapy, NOS",Female,18 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f69ff5fb-7e0b-4b16-9fc9-498379b11562,Stage I,Thyroid gland
+TCGA-KS-A4I3,"Radiation/Pharmaceutical Therapy, NOS",Male,41 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f9db9757-04d8-40bd-a58d-605f4255b0e6,Stage I,Thyroid gland
+TCGA-EM-A3FQ,"Radiation/Pharmaceutical Therapy, NOS",Female,20 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",fef9c64f-5959-4da0-aaa2-66b56fc7b4c3,Stage I,Thyroid gland
+TCGA-FY-A4B3,not reported,Male,52 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",00b62df6-1189-4e38-8601-70416e05550d,Stage III,Thyroid gland
+TCGA-ET-A3BN,not reported,Female,33 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",3b5582e4-58af-4a01-b83d-6fe9704f2b43,Stage I,Thyroid gland
+TCGA-FY-A3TY,not reported,Female,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",53ba15c0-780e-4153-a612-046f1b24b4b3,Stage III,Thyroid gland
+TCGA-FY-A76V,not reported,Male,54 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",812a2d18-c43b-4484-8a8d-234056a0e90b,Stage II,Thyroid gland
+TCGA-DO-A2HM,not reported,Male,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",82dd133b-691b-4bbf-b948-6270869d9b69,Stage IVA,Thyroid gland
+TCGA-FK-A3SG,not reported,Female,21 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8446bcba-0dcd-42eb-96a1-00f5470c9f65,Stage I,Thyroid gland
+TCGA-EL-A3T9,not reported,Female,70 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",8a233b01-2959-467f-8950-02be16309156,Stage IV,Thyroid gland
+TCGA-FY-A2QD,not reported,Female,62 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b0cb6ed7-3d9f-4d5e-8df5-edcc921c43b4,'--,Thyroid gland
+TCGA-FY-A3NN,not reported,Female,48 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b3b7d701-ec84-4018-a3ce-f59198b35767,Stage III,Thyroid gland
+TCGA-FY-A3R7,not reported,Female,50 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",b983a678-b0ae-42c2-8f37-d6ecaf07413b,Stage III,Thyroid gland
+TCGA-ET-A39S,not reported,Female,27 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",dfe086e6-71a5-4131-9602-f20977bf7454,Stage I,Thyroid gland
+TCGA-FY-A3NM,not reported,Female,49 ,Thyroid carcinoma,"Papillary adenocarcinoma, NOS",f7f6e9f4-1aa8-48a0-bea9-efaa9379f6f6,Stage III,Thyroid gland
